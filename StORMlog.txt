@@ -1,0 +1,44 @@
+[INFO] [3e32d486-d414-4647-be36-a48401820f7a] [2017-05-25 16:22:27 GMT+08:00] Running setup: content
+[ERROR] [4dc3d1e3-3346-4faa-a5ab-607047bb8d63] [2017-05-25 16:22:50 GMT+08:00] Error msg: error("Incorrect datetime value: \'\' for column \'create_time\' at row 1")
+[ERROR] [114044ba-aec0-46ba-8397-9d5e25aecb9d] [2017-05-25 16:22:50 GMT+08:00] Error msg: error("Incorrect datetime value: \'\' for column \'create_time\' at row 1")
+[ERROR] [72c30a6d-f3d2-425e-94b7-61c810691dc4] [2017-05-25 16:22:50 GMT+08:00] Error msg: error("error(\"Incorrect datetime value: \\\'\\\' for column \\\'create_time\\\' at row 1\")")
+[ERROR] [370ebeec-42f1-49b0-9a5d-ad29fe16bf8a] [2017-05-25 16:22:50 GMT+08:00] Error msg: error("error(\"error(\\\"Incorrect datetime value: \\\\\\\'\\\\\\\' for column \\\\\\\'create_time\\\\\\\' at row 1\\\")\")")
+[INFO] [e42894b3-6683-43a6-a49b-be0a28a89740] [2017-05-25 16:25:24 GMT+08:00] Running setup: content
+[INFO] [b64415ff-4d01-4444-b1ac-a595518e3242] [2017-05-25 16:26:44 GMT+08:00] Running setup: content
+[INFO] [f79a1c80-470d-4ae5-a070-2c3ca3432bc8] [2017-05-25 16:33:46 GMT+08:00] Running setup: content
+[INFO] [0e2f8c0c-8670-4d40-85e9-760204fb7e87] [2017-05-25 16:34:45 GMT+08:00] Running setup: content
+[INFO] [7f4bb90f-65e3-46aa-957f-46823ad3cb02] [2017-05-25 16:38:00 GMT+08:00] Running setup: content
+[ERROR] [2f26dd2a-1507-41b4-8114-9705705e5942] [2017-05-25 16:42:05 GMT+08:00] Error msg: error("Table \'test.content\' doesn\'t exist")
+[INFO] [8bdc4e5f-3b7f-46ba-b378-1660bf3de957] [2017-05-25 16:42:44 GMT+08:00] Running setup: content
+[INFO] [f5f0201a-bc7c-408c-b1cc-e8c0310718f0] [2017-05-25 16:44:33 GMT+08:00] Running setup: content
+[ERROR] [2c08baf4-997c-4ffb-88da-0b813d8da6cc] [2017-05-25 16:46:15 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE6\\x8E\\xA5\\xE4\\xB8\\x8B...\' for column \'content\' at row 1")
+[ERROR] [4d9d97f3-1090-4cea-acd5-ca3ecb5d62ee] [2017-05-25 16:46:15 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE6\\x8E\\xA5\\xE4\\xB8\\x8B...\' for column \'content\' at row 1")
+[ERROR] [471e030e-8ed8-45fd-8916-5162072a0168] [2017-05-25 16:46:15 GMT+08:00] Error msg: error("error(\"Incorrect string value: \\\'\\\\xE6\\\\x8E\\\\xA5\\\\xE4\\\\xB8\\\\x8B...\\\' for column \\\'content\\\' at row 1\")")
+[ERROR] [769737bd-72d8-403c-af1c-53b14e76d6f5] [2017-05-25 16:46:15 GMT+08:00] Error msg: error("error(\"error(\\\"Incorrect string value: \\\\\\\'\\\\\\\\xE6\\\\\\\\x8E\\\\\\\\xA5\\\\\\\\xE4\\\\\\\\xB8\\\\\\\\x8B...\\\\\\\' for column \\\\\\\'content\\\\\\\' at row 1\\\")\")")
+[ERROR] [9874c1b9-bd60-40f6-b526-0c8e729c39bc] [2017-05-25 16:46:19 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE6\\x8E\\xA5\\xE4\\xB8\\x8B...\' for column \'content\' at row 1")
+[ERROR] [c1879f68-670b-48ee-bfd3-0198ab75b13c] [2017-05-25 16:46:19 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE6\\x8E\\xA5\\xE4\\xB8\\x8B...\' for column \'content\' at row 1")
+[ERROR] [a8d1bca7-9ad2-488c-81d3-4506813fd8ab] [2017-05-25 16:46:19 GMT+08:00] Error msg: error("error(\"Incorrect string value: \\\'\\\\xE6\\\\x8E\\\\xA5\\\\xE4\\\\xB8\\\\x8B...\\\' for column \\\'content\\\' at row 1\")")
+[ERROR] [a384e03d-048f-48e5-a37f-fc5fd15b93ec] [2017-05-25 16:46:19 GMT+08:00] Error msg: error("error(\"error(\\\"Incorrect string value: \\\\\\\'\\\\\\\\xE6\\\\\\\\x8E\\\\\\\\xA5\\\\\\\\xE4\\\\\\\\xB8\\\\\\\\x8B...\\\\\\\' for column \\\\\\\'content\\\\\\\' at row 1\\\")\")")
+[ERROR] [b3944db5-0843-4c41-9441-4b41a36df91f] [2017-05-25 16:47:30 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE5\\x93\\x88\\xE5\\x93\\x88...\' for column \'title\' at row 1")
+[ERROR] [4f717f5f-854d-4a3a-90ee-254a8b461c6d] [2017-05-25 16:47:30 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE5\\x93\\x88\\xE5\\x93\\x88...\' for column \'title\' at row 1")
+[ERROR] [d8f564b0-2787-4559-8dc1-206ebeeec306] [2017-05-25 16:47:30 GMT+08:00] Error msg: error("error(\"Incorrect string value: \\\'\\\\xE5\\\\x93\\\\x88\\\\xE5\\\\x93\\\\x88...\\\' for column \\\'title\\\' at row 1\")")
+[ERROR] [eadf7978-1f9d-43f2-a06a-62d5b91a55a6] [2017-05-25 16:47:30 GMT+08:00] Error msg: error("error(\"error(\\\"Incorrect string value: \\\\\\\'\\\\\\\\xE5\\\\\\\\x93\\\\\\\\x88\\\\\\\\xE5\\\\\\\\x93\\\\\\\\x88...\\\\\\\' for column \\\\\\\'title\\\\\\\' at row 1\\\")\")")
+[ERROR] [3b3285fa-0a68-4d27-acb1-fe60683e7696] [2017-05-25 16:47:37 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE5\\x93\\x88\\xE5\\x93\\x88...\' for column \'title\' at row 1")
+[ERROR] [d4622063-c901-4486-9e2b-ed607db4eb6e] [2017-05-25 16:47:37 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE5\\x93\\x88\\xE5\\x93\\x88...\' for column \'title\' at row 1")
+[ERROR] [16c7d3a1-37d2-412d-bd43-a736d6f1b22f] [2017-05-25 16:47:37 GMT+08:00] Error msg: error("error(\"Incorrect string value: \\\'\\\\xE5\\\\x93\\\\x88\\\\xE5\\\\x93\\\\x88...\\\' for column \\\'title\\\' at row 1\")")
+[ERROR] [2b81210e-d561-4f9a-bb02-a4da53af69a3] [2017-05-25 16:47:37 GMT+08:00] Error msg: error("error(\"error(\\\"Incorrect string value: \\\\\\\'\\\\\\\\xE5\\\\\\\\x93\\\\\\\\x88\\\\\\\\xE5\\\\\\\\x93\\\\\\\\x88...\\\\\\\' for column \\\\\\\'title\\\\\\\' at row 1\\\")\")")
+[INFO] [da3a5f1d-d43c-4fa3-9834-db4a98fa7c30] [2017-05-25 16:49:42 GMT+08:00] Running setup: content
+[ERROR] [5a11c248-175f-445b-9490-75a87f1946d2] [2017-05-25 16:49:50 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE5\\x93\\x88\\xE5\\x93\\x88...\' for column \'title\' at row 1")
+[ERROR] [f3ba1a49-591a-4512-957c-befc52bcf268] [2017-05-25 16:49:50 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE5\\x93\\x88\\xE5\\x93\\x88...\' for column \'title\' at row 1")
+[ERROR] [0bce22fe-30ca-4147-ace9-826b6267015a] [2017-05-25 16:49:50 GMT+08:00] Error msg: error("error(\"Incorrect string value: \\\'\\\\xE5\\\\x93\\\\x88\\\\xE5\\\\x93\\\\x88...\\\' for column \\\'title\\\' at row 1\")")
+[ERROR] [12130eb8-7f66-4dd8-a074-dc28d6169478] [2017-05-25 16:49:50 GMT+08:00] Error msg: error("error(\"error(\\\"Incorrect string value: \\\\\\\'\\\\\\\\xE5\\\\\\\\x93\\\\\\\\x88\\\\\\\\xE5\\\\\\\\x93\\\\\\\\x88...\\\\\\\' for column \\\\\\\'title\\\\\\\' at row 1\\\")\")")
+[INFO] [6b15a81e-5ae0-470f-99f5-1ceeac111b09] [2017-05-25 16:54:14 GMT+08:00] Running setup: content
+[ERROR] [1f74c553-8cfb-4c02-a746-a05836f26e85] [2017-05-25 16:54:25 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE5\\x93\\x88\\xE5\\x93\\x88...\' for column \'title\' at row 1")
+[ERROR] [9be3e66b-7079-4889-9854-74d250d8b178] [2017-05-25 16:54:25 GMT+08:00] Error msg: error("Incorrect string value: \'\\xE5\\x93\\x88\\xE5\\x93\\x88...\' for column \'title\' at row 1")
+[ERROR] [be04dccf-8ac3-46be-bbeb-57db661bd3e1] [2017-05-25 16:54:25 GMT+08:00] Error msg: error("error(\"Incorrect string value: \\\'\\\\xE5\\\\x93\\\\x88\\\\xE5\\\\x93\\\\x88...\\\' for column \\\'title\\\' at row 1\")")
+[ERROR] [7f0c5c8c-deeb-4833-a97c-6019969b6202] [2017-05-25 16:54:25 GMT+08:00] Error msg: error("error(\"error(\\\"Incorrect string value: \\\\\\\'\\\\\\\\xE5\\\\\\\\x93\\\\\\\\x88\\\\\\\\xE5\\\\\\\\x93\\\\\\\\x88...\\\\\\\' for column \\\\\\\'title\\\\\\\' at row 1\\\")\")")
+[ERROR] [0f5d9013-7fb2-4b91-9401-8c6ee0a525fd] [2017-05-25 16:54:37 GMT+08:00] Error msg: error("Data too long for column \'title\' at row 1")
+[ERROR] [4fae3f89-9568-48c1-adb9-4c3a8235c4dd] [2017-05-25 16:54:37 GMT+08:00] Error msg: error("Data too long for column \'title\' at row 1")
+[ERROR] [20290840-2760-4320-ab55-0fc000ef16f3] [2017-05-25 16:54:37 GMT+08:00] Error msg: error("error(\"Data too long for column \\\'title\\\' at row 1\")")
+[ERROR] [5926a28a-fd68-48bd-b887-c9489a153607] [2017-05-25 16:54:37 GMT+08:00] Error msg: error("error(\"error(\\\"Data too long for column \\\\\\\'title\\\\\\\' at row 1\\\")\")")
+[INFO] [675d563b-2ab1-4242-9a51-bd7723eca95c] [2017-05-25 16:55:19 GMT+08:00] Running setup: content
