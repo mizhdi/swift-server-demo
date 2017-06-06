@@ -16,7 +16,5 @@ public func signupRoutes() -> Routes {
     routes.add(method: .get, uri: "/list", handler: WebHandlers.listHandler)
     routes.add(method: .get, uri: "/detail/{contentid}", handler: WebHandlers.detailHandler)
     
-    routes.add(method: .get, uri: "/data", handler: CrawlerHandlers.movieHandler)
-    
     return routes
 }
