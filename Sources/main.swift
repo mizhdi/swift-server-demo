@@ -25,7 +25,7 @@ import MySQLStORM
 
 MySQLConnector.host		= "127.0.0.1"
 MySQLConnector.username	= "root"
-MySQLConnector.password	= ""
+MySQLConnector.password	= "root"
 MySQLConnector.database	= "test"
 MySQLConnector.port		= 3306
 

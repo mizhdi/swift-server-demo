@@ -42,3 +42,7 @@
 [ERROR] [20290840-2760-4320-ab55-0fc000ef16f3] [2017-05-25 16:54:37 GMT+08:00] Error msg: error("error(\"Data too long for column \\\'title\\\' at row 1\")")
 [ERROR] [5926a28a-fd68-48bd-b887-c9489a153607] [2017-05-25 16:54:37 GMT+08:00] Error msg: error("error(\"error(\\\"Data too long for column \\\\\\\'title\\\\\\\' at row 1\\\")\")")
 [INFO] [675d563b-2ab1-4242-9a51-bd7723eca95c] [2017-05-25 16:55:19 GMT+08:00] Running setup: content
+[INFO] [0ad22460-fbad-4ca8-b99b-36dcbeecdbb1] [2017-06-28 14:47:32 GMT+08:00] Running setup: content
+[ERROR] [d46921ac-5a2d-4a85-b057-f0b479bf12ea] [2017-06-28 14:47:32 GMT+08:00] MySQL connection error: Can't connect to MySQL server on '127.0.0.1' (61)
+[ERROR] [69649c5e-6fdf-45ba-868d-96ffc1e93100] [2017-06-28 14:47:32 GMT+08:00] Error msg: error("MySQL server has gone away")
+[ERROR] [4c2c5bdc-cc27-48a1-9b48-b03b137c0f27] [2017-06-28 14:47:32 GMT+08:00] Error msg: error("MySQL server has gone away")
