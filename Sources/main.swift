@@ -23,7 +23,8 @@ import PerfectHTTPServer
 import StORM
 import MySQLStORM
 
-MySQLConnector.host		= "127.0.0.1"
+//MySQLConnector.host		= "127.0.0.1"
+MySQLConnector.host     = "172.17.0.2"
 MySQLConnector.username	= "root"
 MySQLConnector.password	= "root"
 MySQLConnector.database	= "test"
